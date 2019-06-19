@@ -50,6 +50,9 @@
                     <installDirectory>target</installDirectory>
                     <workingDirectory>${basedir}</workingDirectory>
                 </configuration>
+                <configuration>
+			             <skipTests>true</skipTests>
+		         </configuration>
                 <executions>
                     <execution>
                         <id>install node and npm</id>
