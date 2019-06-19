@@ -80,5 +80,8 @@ sudo apt-get install nodejs
 3. Actualizar Versión
 npm install -g npm@latest
 
+4. nada funco. biografa
+https://github.com/OPCFoundation/UA-Java-Legacy/issues/84
+
 
 
