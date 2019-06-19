@@ -40,3 +40,15 @@ Collect and Visualize your IoT data in minutes by following this [guide](https:/
 ## Licenses
 
 This project is released under [Apache 2.0 License](./LICENSE).
+
+
+## DATOS
+
+Convertir PNG a SVG para Logo
+https://www.aconvert.com/image/png-to-svg/
+
+Detener Servicio:
+service thingsboard stop
+
+Comenzar Servicio 
+service thingsboard start
