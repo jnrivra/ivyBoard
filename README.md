@@ -40,3 +40,28 @@ Collect and Visualize your IoT data in minutes by following this [guide](https:/
 ## Licenses
 
 This project is released under [Apache 2.0 License](./LICENSE).
+
+
+## DATOS
+
+Convertir PNG a SVG para Logo
+https://www.aconvert.com/image/png-to-svg/
+
+Detener Servicio:
+service thingsboard stop
+
+Comenzar Servicio 
+service thingsboard start
+
+Clone:
+git clone git@github.com:Xpcker/ivyBoard.git
+
+Corregir Error SSH Clone Git
+https://gist.github.com/adamjohnson/5682757
+
+Instalar Java JDK 8
+https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04
+
+Error de plugins Maven
+mvn clean install -DskipTests 
+
