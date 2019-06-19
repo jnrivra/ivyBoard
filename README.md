@@ -48,10 +48,10 @@ Convertir PNG a SVG para Logo
 https://www.aconvert.com/image/png-to-svg/
 
 Detener Servicio:
-service thingsboard stop
+service thingsboard stop.
 
 Comenzar Servicio 
-service thingsboard start
+service thingsboard start.
 
 Clone:
 git clone git@github.com:Xpcker/ivyBoard.git
@@ -64,4 +64,26 @@ https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-ge
 
 Error de plugins Maven
 mvn clean install -DskipTests 
+
+
+## Instalación GIT
+sudo apt-get install git-core git-gui git-doc
+
+git config --global user.name “xpkcer”
+
+git config --global user.email “juan@nulight.cl”
+
+
+Configuración SSH:
+cd ~/.ssh (si no existe, mkdir /root/.ssh)
+
+ssh-keygen -t rsa -C “juan@nulight.cl”
+
+Copiar todo el texto en id_rsa.pub y pegarlo en github/settings/RSA
+
+
+
+
+
+
 
