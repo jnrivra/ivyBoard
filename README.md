@@ -68,6 +68,17 @@ Copiar todo el texto en id_rsa.pub y pegarlo en github/settings/RSA
 
 
 
+## Arreglar Problema UI
+
+1. Instalar Node y NPM
+sudo apt-get install curl python-software-properties
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+
+2. Instalar Node
+sudo apt-get install nodejs
+
+3. Actualizar Versión
+npm install -g npm@latest
 
 
 
