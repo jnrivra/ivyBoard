@@ -83,6 +83,7 @@ npm install -g npm@latest
 4. nada funco. biografa
 https://github.com/OPCFoundation/UA-Java-Legacy/issues/84
 https://github.com/thingsboard/thingsboard/issues/426
+https://github.com/thingsboard/thingsboard/issues/298
 
 
 
