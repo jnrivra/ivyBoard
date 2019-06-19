@@ -52,3 +52,16 @@ service thingsboard stop
 
 Comenzar Servicio 
 service thingsboard start
+
+Clone:
+git clone git@github.com:Xpcker/ivyBoard.git
+
+Corregir Error SSH Clone Git
+https://gist.github.com/adamjohnson/5682757
+
+Instalar Java JDK 8
+https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04
+
+Error de plugins Maven
+mvn clean install -DskipTests 
+
