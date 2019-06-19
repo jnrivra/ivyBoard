@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="5525px" height="1159px" viewBox="0 0 5525 1159" enable-background="new 0 0 5525 1159" xml:space="preserve">  <image id="image0" width="5525" height="1159" x="0" y="0"
@@ -1326,4 +1327,29 @@ YXRlADIwMTktMDYtMTlUMDc6MDA6MDMtMDc6MDAUBhTgAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE5
 LTA2LTE5VDA3OjAwOjA0LTA3OjAwoPyS0gAAADd0RVh0aWNjOmNvcHlyaWdodABDb3B5cmlnaHQg
 MTk5OSBBZG9iZSBTeXN0ZW1zIEluY29ycG9yYXRlZDFs/20AAAAgdEVYdGljYzpkZXNjcmlwdGlv
 bgBBZG9iZSBSR0IgKDE5OTgpsLrq9gAAAABJRU5ErkJggg==" />
+=======
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1543.4 320"
+	 style="enable-background:new 0 0 1543.4 320;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;}
+	.st2{font-family:'Montserrat-Light';}
+	.st3{font-size:60px;}
+	.st4{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M322.9,217.2c0-11.5-6.7-32.2-16.4-56.1l-13.5,26.9l-22.6,45l0,0v0v53.5C301.3,274.8,322.9,248.2,322.9,217.2
+	L322.9,217.2z M250.5,228.8l45.8-91.7c-4.1-9.2-8.4-18.5-12.7-27.7L237,202v90.7c4.6-0.1,9.1-0.5,13.5-1.1v-1.4h0v-17.6l0,0V228.8
+	L250.5,228.8z M237,161.4l36.6-72.8c-3.7-7.6-7.4-14.9-10.9-21.9L237,108.3V161.4L237,161.4z M237,69.7L252,45.5
+	c-7.5-14.4-12.7-25.7-14.9-29.9V69.7L237,69.7z M223.6,291.6c4.4,0.7,8.9,1,13.5,1.1V202l-46.6-92.7c-4.4,9.2-8.7,18.6-12.7,27.7
+	l45.8,91.7v43.9l0,0v17.6h0V291.6L223.6,291.6z M200.4,88.6l36.6,72.8v-53.1l-25.7-41.6C207.8,73.6,204.1,81,200.4,88.6L200.4,88.6z
+	 M222.1,45.5L237,69.7V15.6C234.7,19.9,229.5,31.1,222.1,45.5L222.1,45.5z M181,187.9l-13.5-26.9c-9.7,23.9-16.4,44.6-16.4,56.1
+	c0,31,21.6,57.6,52.5,69.2V233l0,0l0,0L181,187.9L181,187.9z"/>
+<path class="st0" d="M392.4,99.9v114.5h20.1V99.9H392.4L392.4,99.9z M487,191.5L463.8,128h-21.3l35.5,87.1h17.8l35.3-87.1h-20.8
+	L487,191.5L487,191.5z M614.1,168.8l45.5-68.9h-23.1l-32.4,50.7l-32.1-50.7h-23.7l45.5,69.4v45.2h20.3V168.8L614.1,168.8z"/>
+<rect x="794.9" y="99" class="st1" width="681.2" height="177.6"/>
+<text transform="matrix(1 0 0 1 825.2814 143.5262)"><tspan x="0" y="0" class="st0 st2 st3">C  O  N  S  C  I  O  U  S</tspan><tspan x="112.4" y="72" class="st0 st2 st3">S  P  A  C  E  S</tspan></text>
+<line class="st4" x1="746.7" y1="99" x2="747.5" y2="213.6"/>
+>>>>>>> 02273a4a6f4626458c629f559c859258b738fbda
 </svg>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="720px" height="1159px" viewBox="0 0 720 1159" enable-background="new 0 0 720 1159" xml:space="preserve">  <image id="image0" width="720" height="1159" x="0" y="0"
@@ -366,4 +367,20 @@ OS0wNi0xOVQwNzowMDowMi0wNzowMLJxH1QAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTktMDYtMTlU
 MDc6MDA6MDItMDc6MDDDLKfoAAAAN3RFWHRpY2M6Y29weXJpZ2h0AENvcHlyaWdodCAxOTk5IEFk
 b2JlIFN5c3RlbXMgSW5jb3Jwb3JhdGVkMWz/bQAAACB0RVh0aWNjOmRlc2NyaXB0aW9uAEFkb2Jl
 IFJHQiAoMTk5OCmwuur2AAAAAElFTkSuQmCC" />
+=======
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 320 320"
+	 style="enable-background:new 0 0 320 320;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<path class="st0" d="M245.9,223.2c0-11.5-6.7-32.2-16.4-56.1L216,194l-22.6,45l0,0l0,0v53.5C224.3,280.8,245.9,254.2,245.9,223.2
+	L245.9,223.2z M173.5,234.8l45.8-91.7c-4.1-9.2-8.4-18.5-12.7-27.7L160,208v90.7c4.6-0.1,9.1-0.5,13.5-1.1v-1.4l0,0v-17.6l0,0V234.8
+	L173.5,234.8z M160,167.4l36.6-72.8c-3.7-7.6-7.4-14.9-10.9-21.9L160,114.3V167.4L160,167.4z M160,75.7l15-24.2
+	c-7.5-14.4-12.7-25.7-14.9-29.9v54.1H160z M146.6,297.6c4.4,0.7,8.9,1,13.5,1.1V208l-46.6-92.7c-4.4,9.2-8.7,18.6-12.7,27.7
+	l45.8,91.7v43.9l0,0v17.6l0,0V297.6L146.6,297.6z M123.4,94.6l36.6,72.8v-53.1l-25.7-41.6C130.8,79.6,127.1,87,123.4,94.6
+	L123.4,94.6z M145.1,51.5L160,75.7V21.6C157.7,25.9,152.5,37.1,145.1,51.5L145.1,51.5z M104,193.9L90.5,167
+	c-9.7,23.9-16.4,44.6-16.4,56.1c0,31,21.6,57.6,52.5,69.2V239l0,0l0,0L104,193.9L104,193.9z"/>
+>>>>>>> 02273a4a6f4626458c629f559c859258b738fbda
 </svg>
