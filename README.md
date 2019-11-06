@@ -45,6 +45,19 @@ Instalar Java JDK 8
 https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04
 
 
+Error:
+E: Could not get lock /var/lib/dpkg/lock - open (11: Resource temporarily unavailable)
+E: Unable to lock the administration directory (/var/lib/dpkg/), is another process using it?
+
+Fix: https://www.linuxuprising.com/2018/07/how-to-fix-could-not-get-lock.html
+sudo rm /var/lib/apt/lists/lock
+sudo rm /var/cache/apt/archives/lock
+sudo rm /var/lib/dpkg/lock
+sudo dpkg --configure -a
+sudo apt install -f
+
+
+
 Error de plugins Maven
 
 mvn clean install -DskipTests 
